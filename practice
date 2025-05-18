@@ -1,3 +1,4 @@
+#정수 명령 처리
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
