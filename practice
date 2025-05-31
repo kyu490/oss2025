@@ -69,4 +69,4 @@ int main(){
 #include <stdlib.h>
 #include <string.h>
 
-int
+int gd
